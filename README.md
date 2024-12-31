@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @AhmadFajrAthallah
-- 👀 I’m interested in Discord Bot Code
-- 🌱 I’m currently learning Scratch Code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-        ig: @ahmadfajr._
+- 👀 I’m interested in Tech, Video Game, Photography, Music Production, etc.
+- 🌱 I’m currently learning Scratch, JavaScript, PHP, HTML, etc.
+- 📫 How to reach me: https://ahmadwasdspace.tumblr.com
         
 
 <!---
